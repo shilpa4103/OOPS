@@ -95,3 +95,24 @@ int main(){
 
 }
 
+//Output
+// Constructor called
+// name is Shilpa
+// health is 12
+// level is D
+
+
+// name is Shilpa
+// health is 12
+// level is D
+
+
+// name is Ahilpa
+// health is 12
+// level is D
+
+
+// name is Shilpa
+// health is 12
+// level is D
+
