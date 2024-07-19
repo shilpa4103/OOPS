@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-#include "hero.cpp";//we can define the class in other file and can be included
+#include "hero.cpp"//we can define the class in other file and can be included
 
 //class Hero{
     //properties
@@ -24,3 +24,7 @@ int main(){
 
     return 0;
 }
+
+//Output
+//108
+//1

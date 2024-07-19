@@ -23,3 +23,7 @@ int main(){
     ramesh.print();
     return 0;
 }
+
+//Output
+//health is 6422356
+//level is k
