@@ -1,4 +1,3 @@
-//by default the properties are private
 class Hero{
 //properties
 public:
@@ -6,6 +5,6 @@ public:
   int health;
   int level;
 };
-
+//by default the properties are private
 //private cannot be acessed out side the class also
 //public can be accesed ouside the class also
