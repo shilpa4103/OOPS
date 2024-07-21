@@ -20,10 +20,12 @@ class Male:protected Human{
         cout<<"male sleeping"<<endl;
     }
 
+    //Since it acts like private we can access using getter
     // int getHeight(){
     //     return height;
     // }
 
+    
     void getHeight(){
         cout<<height<<endl;
     }
