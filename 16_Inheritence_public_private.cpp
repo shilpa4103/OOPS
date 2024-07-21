@@ -9,7 +9,7 @@ class Human{
 
 //Male class inherit human class
 //All the human class members are inherited using private mode
-//Protected members cannot be accessable outside the class also inside the child class
+//Private members cannot be accessable outside the class
 //Can be accessable inside the same class 
 
 class Male:private Human{
