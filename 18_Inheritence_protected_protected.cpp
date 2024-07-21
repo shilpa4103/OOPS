@@ -8,10 +8,9 @@ class Human{
 
 
 //Male class inherit human class
-//All the human class members are inherited using public mode
-//So there is no such data members inherited to male class
+//All the human class members are inherited using protected mode
 
-class Male:public Human{
+class Male:protected Human{
     public:
     string color;
 
@@ -23,10 +22,10 @@ class Male:public Human{
 };
 
 int main(){
-    //Since it is protected-public we cannot access directly outside the class
+    //Since it is protected-protected we cannot access directly outside the class
     Male object1;
     
-    cout<<object1.getHeight()<<endl;//it can't be accessed
+    cout<<object1.height<<endl;//it can't be accessed
 
     object1.color="blue";
     cout<<object1.color<<endl;

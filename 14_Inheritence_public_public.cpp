@@ -15,7 +15,7 @@ class Human{
 class Male:public Human{
     public:
     string color;
-
+    //Here all the members of the class human are public
     void sleep(){
         cout<<"male sleeping"<<endl;
     }
