@@ -9,7 +9,6 @@ class Human{
 
 //Male class inherit human class
 //All the human class members are inherited using public mode
-//So there is no such data members inherited to male class
 
 class Male:public Human{
     public:
