@@ -8,8 +8,7 @@ class Human{
 };
 
 
-//Male class inherit human class
-//All the human class members are inherited using private mode
+//Male class inherit human class 
 
 class Male:private Human{
     public:
