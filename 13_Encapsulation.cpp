@@ -1,4 +1,4 @@
-//Encapsulation is the method of wrapping up of data members and methods in a class and protecting them from outside acess
+//Encapsulation is the method of wrapping up of data members and methods in a class and protecting them from outside access
 //we do this by making the data members private and these can be accessed using getter,setter concept
 
 
